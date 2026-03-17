@@ -63,6 +63,7 @@ RegisterNumber: 212225240072
 
 ## Output:
 
+<img width="460" height="399" alt="Screenshot 2026-03-16 101851" src="https://github.com/user-attachments/assets/ba55570f-92fa-41ba-84e5-c673f7926721" />
 
 
 
